@@ -1,12 +1,8 @@
-### Norwil
-
-Hi there, I'm [Norwil]! 👋
-
+#### Hi there, I'm [Norwil]! 👋
 
 ## About Me
 
-I studied Polish Literature and currently reside in Wroclaw, Poland. Recently, I decided to pivot my career and pursue computer science, and I'm really enjoying the learning process so far!
-
+I studied Polish Literature and currently reside in Wroclaw, Poland. Recently, I decided to pivot my career and pursue computer science and I'm really enjoying the learning process so far!
 
 ## Contact Me
 
