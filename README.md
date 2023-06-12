@@ -14,5 +14,3 @@ Here are some of the projects I'm currently working on:
 
 - [CAS Number Database](https://github.com/Norwil/CASNum)
 - [Polish Verb Conjugator](https://github.com/Norwil/polish-verb-conjugator)
-
-Thanks for stopping by, I look forward to connecting with you!
