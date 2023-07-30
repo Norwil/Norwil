@@ -2,7 +2,7 @@
 
 ## About Me
 
-I studied Polish Literature and currently reside in Wrocław, Poland. Recently, I decided to pivot my career and pursue computer science and I'm really enjoying the learning process so far!
+I studied Polish Literature and currently reside in Wrocław, Poland. Recently, I decided to study computer science and I'm really enjoying the learning process so far!
 
 ## Contact Me
 
