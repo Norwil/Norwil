@@ -6,7 +6,7 @@ I studied Polish Literature and currently reside in Wrocław, Poland. Recently, 
 
 ## Contact Me
 
-Feel free to reach out to me at [efrimnorwiusz@gmail.com]
+[Feel free to reach out to me](https://www.emretokluk.com)
 
 ## Projects
 
